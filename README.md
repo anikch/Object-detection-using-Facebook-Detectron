@@ -1,4 +1,4 @@
-# Object Identification Using Facebook Detectron (MASK R-CNN)
+# Object Detection Using Facebook Detectron (MASK R-CNN)
 
 - Clone the Facebook Detectron Modelusing the following link:
 'https://github.com/facebookresearch/Detectron.git'
